@@ -1,0 +1,12 @@
+{
+  "name": "Gillian Debugging (TACAS 25)",
+  "image": "gillian:tacas25",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "gillian.code-gillian",
+        "gillianplatform.gillian-debugger"
+      ]
+    }
+  }
+}
